@@ -1,5 +1,5 @@
 # AcroBot-RL-Practice
-Using Reinforcement Learning techniques with Tensorflow to train a model that plays on AcroBot environment.
+Using Reinforcement Learning techniques with Tensorflow to train a model that plays on AcroBot environment of OpenAI.
 
 [Acrobot-v1](https://gym.openai.com/envs/Acrobot-v1/)
 
