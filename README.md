@@ -26,4 +26,8 @@ pyvirtualdisplay
 tensorflow
 tf_agents
 ```
+# Author
+
+- Koray Çağlar - [koraycaglar](https://github.com/koraycaglar)
+
 
